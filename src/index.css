@@ -21,6 +21,7 @@ p{
 }
 h2{
     font-family: Lobster ,monospace;
+    border: 2px dotted blue;
 
 
 }
