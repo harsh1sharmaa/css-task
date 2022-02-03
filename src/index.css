@@ -2,8 +2,12 @@ h1{
    
     color: blue;
 }
-
-
+:root{
+  --redd: rgb(90, 202, 193);
+  --penguin-skin: gray;
+  --penguin-belly: white;
+  --penguin-beak: orange;
+}
 /* task2 */
 div h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -11,7 +15,7 @@ div h1{
 .main{
 
     font-weight: bolder;
-    background-color: burlywood;
+    background-color: var(--penguin-beak);
 }
 p{
     font-size: 30px;
@@ -75,7 +79,7 @@ img{
   }
   
   body{
-    background-color:  	#F0F;
+    background-color:  var(--redd);
     text-align: center;
   }
   #blue{
