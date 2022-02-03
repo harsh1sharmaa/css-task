@@ -80,7 +80,8 @@ img{
   }
   #blue{
       background-color: aqua;
+  
   }
   .pink{
-    background-color: pink;
+    background-color: pink !important;
   }
