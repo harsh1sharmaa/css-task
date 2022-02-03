@@ -57,10 +57,11 @@ img{
   }
   .div{
     background-color: chartreuse;
+    padding: 30px 0px 20px 5px;
   }
   #cat-poto{
      border: 2px solid black;
-     padding: 30px 0px 20px 5px;
+     
      margin-top: -100px;
     
   }
