@@ -79,9 +79,9 @@ img{
     text-align: center;
   }
   #blue{
-      background-color: aqua;
+      background-color: rgb(67, 207, 207);
   
   }
   .pink{
-    background-color:#ffff00 !important;
+    background-color:rgb(45, 214, 45) !important;
   }
