@@ -4,7 +4,7 @@ h1{
 }
 :root{
   
-  --penguin-skin: gray;
+  --penguin-belly:pink;
 
 }
 /* task2 */
@@ -15,7 +15,7 @@ div h1{
 
     font-weight: bolder;
     background-color: gray ;
-    background-color: var(--penguin-skin);
+    background-color: var( --penguin-belly);
 }
 p{
     font-size: 30px;
