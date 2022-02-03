@@ -12,6 +12,7 @@ div h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .main{
+  --penguin-belly:rgb(202, 202, 202);
 
     font-weight: bolder;
     background-color: gray ;
