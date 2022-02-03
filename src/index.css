@@ -57,3 +57,6 @@ img{
   .div{
     background-color: chartreuse;
   }
+  #cat-poto{
+     border: 2px solid black;
+  }
