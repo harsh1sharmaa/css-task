@@ -3,10 +3,9 @@ h1{
     color: blue;
 }
 :root{
-  --redd: rgb(90, 202, 193);
+  
   --penguin-skin: gray;
-  --penguin-belly: white;
-  --penguin-beak: orange;
+
 }
 /* task2 */
 div h1{
@@ -15,7 +14,7 @@ div h1{
 .main{
 
     font-weight: bolder;
-    background-color: var(--penguin-beak);
+    background-color: var(--penguin-skin);
 }
 p{
     font-size: 30px;
