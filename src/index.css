@@ -56,7 +56,7 @@ img{
     
   }
   .div{
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
     padding: 30px 0px 20px 5px;
     margin:30px 0px 20px 5px;
   }
@@ -68,4 +68,8 @@ img{
   }
   p[name="top3"]{
     font-weight: bolder;
+  }
+  #two h1{
+    height: 50px;
+    width: 5rem;
   }
