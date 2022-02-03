@@ -18,8 +18,9 @@ h1{
 }
 /* task2 */
 div h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family:Lobster;
+  }
 .main{
   --penguin-belly:rgb(202, 202, 202);
 
