@@ -7,6 +7,15 @@ h1{
   --penguin-belly:pink;
 
 }
+@media (max-width:300px){
+  :root{
+  
+    --penguin-belly:rgb(32, 26, 27);
+  
+  
+
+}
+}
 /* task2 */
 div h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
